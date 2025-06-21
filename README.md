@@ -1,4 +1,4 @@
-# 🎶 SoulSync
+# 🎶 SoulSync (Uder Development)
 
 **SoulSync** is a real-time collaborative audio experience that lets friends, families, or communities **listen to music together in perfect sync**, no matter where they are. Whether you're hosting a virtual chill session, working remotely, or long-distance dating — SoulSync helps you stay connected through sound.
 
